@@ -1,0 +1,2 @@
+# servermc
+HA
